@@ -1,4 +1,4 @@
-cpu-id,start time(ms),width(us),actual state,predicted state,delta time(ms)
+cpu-id,start_time_ms,width_us,actual_state,predicted_state,delta_time_ms
 1,2.807,1863.0,4,4,0
 1,5.425,129.0,3,3,2.618
 1,5.74,185.0,4,3,0.315
